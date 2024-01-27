@@ -1,0 +1,96 @@
+body
+{
+    background-color: blanchedalmond;
+    margin: 100px;
+    width: 1200px;
+    border: 20px blue solid;
+}
+
+h1{
+    border-bottom: 2px solid; 
+    text-align: center;
+    text-size-adjust: 200px;
+}
+
+
+#box1
+{
+    border: 10px solid;
+    background-color: aquamarine;
+    color: black;
+    size: 100px;
+    padding-left: 30px;
+    margin: 30px;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    width: 350px;
+}
+#box2
+{
+    border: 10px red solid;
+    background-color: blue;
+    color: black;
+    size: 50px;
+    padding-right: 130px;
+    margin: 100px;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    width: 800px;
+}
+#box3
+{
+    border: 50px white solid ;
+    background-color: peru;
+    color: black;
+    size: 100px;
+    padding-left: 30px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    width: 500px;
+}
+#box4
+{
+    border: 10px red solid;
+    background-color: pink;
+    color: whitesmoke;
+    size: 50px;
+    padding-right: 130px;
+    margin: 100px;
+    font-size: 30px;
+    font-weight: 100px;
+    font-family:fantasy
+    font-style: italic;
+    width: 700px
+}
+#box5
+{
+    border: 20px solid;
+    background-color: aliceblue;
+    margin-inline-end: 200px;
+    width: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 50px;
+    line-height: 150px;
+
+}
+#box6
+{
+    order: 10px red solid;
+    background-color: rgb(104, 63, 70);
+    color: whitesmoke;
+    size: 150px;
+    padding-right: 130px;
+    margin: 100px;
+    font-size: 30px;
+    font-weight: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    width: 900px
+}
